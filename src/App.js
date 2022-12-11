@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a className="App-link" href="https://github.com/Lenilk">LENILK</a>
+        <a className="App-link" href="https://github.com/Lenilk" target="_parent">LENILK</a>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
